@@ -4,6 +4,9 @@ import threading
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
+# Repo
+# https://github.com/junaidmgithub/autoreloader
+
 # Installation
 # >>> pip install watchdog
 
